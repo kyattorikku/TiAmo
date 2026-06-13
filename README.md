@@ -1,2 +1,2 @@
 # TiAmo
-Just some files for TiAmo Network
+Resources for TiAmoMC
